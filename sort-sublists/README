@@ -1,0 +1,5 @@
+Sorts a list's sublists after their length
+Example:
+[ [a, b], [c], [d,e,f], [g], [h,i,j,k], [l,m] ] becomes
+[ [g], [c], [l,m], [a,b], [d,e,f], [h,i,j,k] ].
+
